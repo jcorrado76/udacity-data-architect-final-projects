@@ -1,0 +1,2 @@
+submission:
+	zip -r joseph_corrado_submission.zip data_architecture_diagram sql_queries staging_table_screenshots table_schema_design_diagrams data_compression_ratios.xlsx
