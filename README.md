@@ -9,6 +9,7 @@ In this program, you’ll plan, design and implement enterprise data infrastruct
 Projects:
 * [Yelp and Weather Data Snowflake Implementation](https://github.com/jcorrado76/udacity-data-architect-final-projects/tree/dev/yelp_snowflake_data_warehouse)
 * [SneakerPark Data Governance](https://github.com/jcorrado76/udacity-data-architect-final-projects/tree/dev/sneakerpark)
+* [Designing Data Lake for Medical REcord System](https://github.com/jcorrado76/udacity-data-architect-final-projects/blob/dev/designing_data_lake_system/README.md)
 
 Certificate:
-* 
+* [Find my certificate here](https://confirm.udacity.com/3KAQFKDJ)
